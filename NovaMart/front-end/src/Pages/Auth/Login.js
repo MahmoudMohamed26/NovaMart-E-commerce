@@ -42,7 +42,8 @@ export default function Register(){
 
     return(
         <div className="max-w-[500px] m-auto h-[100vh] flex flex-col justify-center">
-            <h1 className="container uppercase text-blue-500 text-center text-4xl font-bold">Login</h1>
+            <h1 className="container text-center text-4xl mb-10">Welcome to Nova<span className="text-blue-600 font-bold">Mart</span></h1>
+            <h2 className="container uppercase text-blue-500 text-center text-2xl font-bold">Login</h2>
             <form className="container !mt-10" onSubmit={handleRegister}>
                 <div className="mb-6">
                     <label className="font-bold text-blue-500">E-mail</label>
