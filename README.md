@@ -18,8 +18,8 @@ NovaMart is a full-stack e-commerce web application that supports multiple user 
 - Role-based redirection (Admin, Product Manager, User)
 - Protected routes
 
-![Screenshot_1](https://github.com/user-attachments/assets/15a7ef9e-f171-4bae-8beb-607bb0228170)
-![Untitled design](https://github.com/user-attachments/assets/83c3846e-695e-4efe-b030-e92810ad6a9f)
+![Screenshot_1](https://github.com/user-attachments/assets/68559c6d-667d-41e2-9568-3eda58b00c29)
+![Untitled design](https://github.com/user-attachments/assets/40801e6d-8ead-4c39-a81e-251209e7aab6)
 
 ---
 
@@ -31,17 +31,17 @@ NovaMart is a full-stack e-commerce web application that supports multiple user 
 - Add to cart
 - View cart
 
-![Screenshot_2](https://github.com/user-attachments/assets/815fa47e-8d79-440b-81dc-19acd794dbe3)
-![Screenshot_3](https://github.com/user-attachments/assets/facb9bff-7bbe-473d-927a-b08da51f22a7)
-![Screenshot_4](https://github.com/user-attachments/assets/86187d3c-a0f0-4e52-a8d5-4d756702d364)
-![Screenshot_5](https://github.com/user-attachments/assets/4206021f-c0e1-4d09-80cf-fbeeefca1ebd)
-![Screenshot_6](https://github.com/user-attachments/assets/0525dd72-3377-41a7-af22-2a2926e8d6fc)
-![Screenshot_7](https://github.com/user-attachments/assets/7917e135-5e98-46a8-9f63-be6de0163ad5)
-![Screenshot_8](https://github.com/user-attachments/assets/6da31f34-19db-49aa-9217-8f4f21d032d4)
-![Screenshot_9](https://github.com/user-attachments/assets/d6406c3c-7fbf-4279-add7-13d37ff4b4d5)
-![Screenshot_10](https://github.com/user-attachments/assets/0720d8c1-737b-4077-a3db-e243753834d4)
-![Screenshot_11](https://github.com/user-attachments/assets/6ad55252-2ea3-4f55-b96d-bb804163f184)
-![Screenshot_12](https://github.com/user-attachments/assets/73eecb43-c975-499f-8583-4e7aebfe3ea4)
+![Screenshot_2](https://github.com/user-attachments/assets/ced804b1-6a30-482f-b61d-f02be23e778a)
+![Screenshot_3](https://github.com/user-attachments/assets/3b81c472-8456-4a63-a6c8-c021ce328eb0)
+![Screenshot_4](https://github.com/user-attachments/assets/8b79398e-8f3e-4e3b-bdd5-66a52883633f)
+![Screenshot_5](https://github.com/user-attachments/assets/f4c538c7-92e2-4750-a13a-74509a21c1e0)
+![Screenshot_6](https://github.com/user-attachments/assets/f272d8fb-bccc-4fb8-b7bf-c36befcde087)
+![Screenshot_7](https://github.com/user-attachments/assets/7be44779-0097-4045-b433-6efbebf19590)
+![Screenshot_8](https://github.com/user-attachments/assets/e46ac5ef-8dbd-4049-b6b9-9a519f48429c)
+![Screenshot_9](https://github.com/user-attachments/assets/4dfcf56c-f130-4c1f-831b-bf95d024fde1)
+![Screenshot_10](https://github.com/user-attachments/assets/40bcc72f-7d9a-4184-b9f6-f341ffe20efc)
+![Screenshot_11](https://github.com/user-attachments/assets/6e2a6047-2255-45ff-abca-039d5cf7ebee)
+![Screenshot_12](https://github.com/user-attachments/assets/0c7441a0-b6b5-438a-906f-5388c9feabc7)
 
 ---
 
@@ -53,11 +53,11 @@ NovaMart is a full-stack e-commerce web application that supports multiple user 
 - Manage users (view, promote to product manager or admin)
 - Full access to all sections
 
-![Screenshot_13](https://github.com/user-attachments/assets/1f9462bd-72e9-4f62-ac35-966f9d39b658)
-![Screenshot_18](https://github.com/user-attachments/assets/0311f232-c455-44ca-a6ed-fd8d20f4e8b2)
-![Screenshot_14](https://github.com/user-attachments/assets/070722f0-9ff7-4687-bc82-dc3859ed83fc)
-![Screenshot_15](https://github.com/user-attachments/assets/a3f14cb4-2b7f-475d-8bbe-0b5b115ac6f7)
-![Screenshot_16](https://github.com/user-attachments/assets/29b1b074-6f42-40b0-a5eb-a215eee90136)
+![Screenshot_13](https://github.com/user-attachments/assets/c90979ab-f2b5-4190-aa22-b62d320a8e85)
+![Screenshot_14](https://github.com/user-attachments/assets/6443eca4-7839-4b3c-9412-6d0f5d313c79)
+![Screenshot_15](https://github.com/user-attachments/assets/eb5d7dee-f477-4b1b-b649-4644a6f3a926)
+![Screenshot_16](https://github.com/user-attachments/assets/2b29dc92-9931-4fec-bbde-0ba32f0e4746)
+![Screenshot_18](https://github.com/user-attachments/assets/bf7f6f02-49bd-44c2-86e5-bac29bedea93)
 
 ---
 
@@ -68,6 +68,34 @@ NovaMart is a full-stack e-commerce web application that supports multiple user 
 - View category list
 - Cannot manage users
 
-![Screenshot_19](https://github.com/user-attachments/assets/60615941-dfa3-44ea-a99b-eb0a3807d2bc)
+![Screenshot_19](https://github.com/user-attachments/assets/81b269d0-2a1d-482e-85d4-bd0e3316edc2)
 
 ---
+
+## 🚀 Tech Stack
+
+- Frontend: React, JavaScript, TailwindCSS
+- Backend: LARAVEL PHP
+- Database: MySQL (via XAMPP)
+- Tools: Composer, NPM
+
+---
+
+## 🛠️ Installation Guide
+
+### ✅ Prerequisites
+
+Make sure you have the following installed:
+
+- [XAMPP](https://www.apachefriends.org/index.html)
+- [Node.js & npm](https://nodejs.org/)
+- [Composer](https://getcomposer.org/)
+- Git (optional, for cloning the repo)
+
+---
+
+### 📦 Clone the Repository
+
+```bash
+git clone https://github.com/MahmoudMohamed26/NovaMart-E-commerce
+cd your-project
